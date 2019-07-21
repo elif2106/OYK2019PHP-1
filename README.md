@@ -51,3 +51,14 @@ MariaDB, ilişkisel veritabanı sistemi olan MySQL'in kaynak kodundan türemiş,
 
 ## Servis Nedir?
 Belirli bir görevi yerine getirebilmek için arka planda çalışan ve kullanıcının uygulamayla olan ilişkisini etkilemeyen işlemler için kullanılan sınıftır.
+
+<h3 style= "color:red">Merhaba Dünya
+</h3>
+
+<h3 style="background-color:red; color:white;"> Merhaba 
+ 
+</h3>
+
+<p style="font-size:25px;font-weight:bold;border:10px solid red">Ankara,Türkiye'nin başkentidir.
+  
+</p>
