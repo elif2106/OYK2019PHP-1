@@ -1,9 +1,9 @@
-# Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
+## Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
 ![Kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 
 ## 20.07.2019 Birinci Gün Notları
 
-### Ubuntu’da Bazı Apt Komutları
+## Ubuntu’da Bazı Apt Komutları
 
 Komut | Açıklama
 --- | ---
@@ -12,12 +12,12 @@ Komut | Açıklama
 **```sudo apt update```** | Paket listesini günceller. 
 **```sudo apt upgrade```** | Sistemde kurulu paketleri günceller. 
 
-Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
-– Paket yükleme işlemleri kolaylaşır.
-– Paket kaldırma işlemleri kolaylaşır.
-– Var olan paketlerin güncelleme işlemleri kolaylaşır.
-– Sistemde yüklü olan/olmayan paketleri listeleme işi kolaylaşır.
-– Programların çalışması için gerekli olan diğer programların yönetimi kolaylaşır.
+## Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
+* – Paket yükleme işlemleri kolaylaşır.
+* – Paket kaldırma işlemleri kolaylaşır.
+* – Var olan paketlerin güncelleme işlemleri kolaylaşır.
+* – Sistemde yüklü olan/olmayan paketleri listeleme işi kolaylaşır.
+* – Programların çalışması için gerekli olan diğer programların yönetimi kolaylaşır.
 
 ## Çekirdek
 Çekirdek, bilgisayarda donanım (hardware) ve yazılım (software) arasındaki bağlantıyı sağlayan arabirime verilen isimdir. 
