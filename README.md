@@ -5,7 +5,7 @@
 
 ### Ubuntu’da Bazı Apt Komutları
 
-Komut | Açıklama
+| Komut | Açıklama |
 ---|---
 |**```sudo apt install paket-ismi```** |Bu komut ile sistemimize ubuntu depolarında bulunan her paketi kurabiliriz.|
 
