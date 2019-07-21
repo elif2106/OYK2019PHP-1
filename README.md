@@ -1,5 +1,5 @@
 # Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
-![Kamp] (https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
+![Kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 
 ## 20.07.2019 Birinci Gün Notları
 
@@ -13,7 +13,7 @@ Komut | Açıklama
 
 **```sudo apt update```** |Paket listesini günceller.
 **```sudo apt upgrade```**  |Sistemde kurulu paketleri günceller.
----|---
+
 Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
 – Paket yükleme işlemleri kolaylaşır.
 – Paket kaldırma işlemleri kolaylaşır.
